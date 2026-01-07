@@ -1,0 +1,23 @@
+{
+  "url": "https://www.iccr-cancer.org/datasets/published-datasets/paediatrics/hepatoblastoma/",
+  "title": "Hepatoblastoma",
+  "introduction": "",
+  "scope": "",
+  "authors": [],
+  "sections": [
+    {
+      "title": "Scope",
+      "content": "Datasets\n>\nPublished Datasets\n>\nPaediatrics\n>\nHepatoblastoma\nScope\nThe dataset has been developed for the pathological reporting of resection specimens of paediatric hepatoblastoma, including tumours in the hepatocellular neoplasm not otherwise specified (HCN-NOS) category. It is not applicable to hepatocellular carcinomas (HCC) nor to other primary or metastatic paediatric neoplasms of the liver."
+    },
+    {
+      "title": "Publication History",
+      "content": "Publication History\nThis dataset was developed with the kind support of the International Paediatric Pathology Association (IPPA), Paediatric Pathology Society (PPS) and Society for Pediatric Pathology (SPP).\n1st edition\n– November 2023\nTo reference this dataset please use the following citation\n: López-Terrada DH, Alaggio R, Bush JW, Cho S, de Krijger RR, Inoue T, O’Neill AF, Perez-Atayde AR, Ranganathan S, Stahlschmidt J, Tanaka Y, Cohen M, Reyes-Múgica M (2023).\nHepatoblastoma Histopathology Reporting Guide. 1st edition\n. International Collaboration on Cancer Reporting; Sydney, Australia. ISBN: 978-1-922324-38-2.\nRead more on the Hepatoblastoma dataset from the journal article written by the dataset authors:\nPathology reporting of hepatoblastoma resections: recommendations from the international collaboration on cancer reporting.\nLópez-Terrada DH, Webster F, Alaggio R, Bush JW, Cho SJ, de Krijger RR, Inoue T, O’Neill AF, Perez-Atayde AR, Ranganathan S, Stahlschmidt J, Tanaka Y, Cohen M, Reyes-Múgica M. Histopathology. 2025 Dec;87(6):802-814. doi: 10.1111/his.15536. Epub 2025 Aug 20.\nExpert Committee\nThe 1st edition of the dataset for Hepatoblastoma was developed by the following international team:\nChair – Dolores López-Terrada, USA\nSeries Champion – Miguel Reyes-Múgica, USA\nICCR representative – Marta Cohen, UK\nDomain experts:\nRita Alaggio, Italy\nJonathan Bush, Canada\nSoo-Jin Cho, USA\nRonald de Krijger, The Netherlands\nTakeshi Inoue, Japan\nAllison O’Neill, USA\nAntonio Perez-Atayde, USA\nSarangarajan Ranganathan, USA\nJens Stahlschmidt, UK\nYukichi Tanaka, Japan"
+    }
+  ],
+  "data_items": [],
+  "references": [],
+  "version_info": "",
+  "full_text": "Datasets\n>\nPublished Datasets\n>\nPaediatrics\n>\nHepatoblastoma\nScope\nThe dataset has been developed for the pathological reporting of resection specimens of paediatric hepatoblastoma, including tumours in the hepatocellular neoplasm not otherwise specified (HCN-NOS) category. It is not applicable to hepatocellular carcinomas (HCC) nor to other primary or metastatic paediatric neoplasms of the liver.\n\nPublication History\nThis dataset was developed with the kind support of the International Paediatric Pathology Association (IPPA), Paediatric Pathology Society (PPS) and Society for Pediatric Pathology (SPP).\n1st edition\n– November 2023\nTo reference this dataset please use the following citation\n: López-Terrada DH, Alaggio R, Bush JW, Cho S, de Krijger RR, Inoue T, O’Neill AF, Perez-Atayde AR, Ranganathan S, Stahlschmidt J, Tanaka Y, Cohen M, Reyes-Múgica M (2023).\nHepatoblastoma Histopathology Reporting Guide. 1st edition\n. International Collaboration on Cancer Reporting; Sydney, Australia. ISBN: 978-1-922324-38-2.\nRead more on the Hepatoblastoma dataset from the journal article written by the dataset authors:\nPathology reporting of hepatoblastoma resections: recommendations from the international collaboration on cancer reporting.\nLópez-Terrada DH, Webster F, Alaggio R, Bush JW, Cho SJ, de Krijger RR, Inoue T, O’Neill AF, Perez-Atayde AR, Ranganathan S, Stahlschmidt J, Tanaka Y, Cohen M, Reyes-Múgica M. Histopathology. 2025 Dec;87(6):802-814. doi: 10.1111/his.15536. Epub 2025 Aug 20.\nExpert Committee\nThe 1st edition of the dataset for Hepatoblastoma was developed by the following international team:\nChair – Dolores López-Terrada, USA\nSeries Champion – Miguel Reyes-Múgica, USA\nICCR representative – Marta Cohen, UK\nDomain experts:\nRita Alaggio, Italy\nJonathan Bush, Canada\nSoo-Jin Cho, USA\nRonald de Krijger, The Netherlands\nTakeshi Inoue, Japan\nAllison O’Neill, USA\nAntonio Perez-Atayde, USA\nSarangarajan Ranganathan, USA\nJens Stahlschmidt, UK\nYukichi Tanaka, Japan",
+  "category": "paediatrics",
+  "slug": "hepatoblastoma"
+}

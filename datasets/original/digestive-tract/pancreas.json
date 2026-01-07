@@ -1,0 +1,23 @@
+{
+  "url": "https://www.iccr-cancer.org/datasets/published-datasets/digestive-tract/pancreas/",
+  "title": "Carcinomas of the Exocrine Pancreas",
+  "introduction": "",
+  "scope": "",
+  "authors": [],
+  "sections": [
+    {
+      "title": "Scope",
+      "content": "Datasets\n>\nPublished Datasets\n>\nDigestive Tract\n>\nCarcinomas of the Exocrine Pancreas\nScope\nThe dataset has been developed for pancreatic resection specimens with carcinomas of the exocrine pancreas, i.e., ductal adenocarcinoma and acinar cell carcinoma.\nCarcinoma of the ampulla of Vater, common bile duct and duodenum, neuroendocrine neoplasia, lymphoma, sarcoma and secondary tumours are excluded from this dataset."
+    },
+    {
+      "title": "Publication History",
+      "content": "Publication History\n1st edition\n– April 2020\nTo reference this dataset please use the following citation:\nVerbeke C,  Brosens L, Campbell F, Del Chiaro M, Esposito I, Feakins RM, Fukushima N, Gill A, Kakar S, Kench J, Krasinskas AM, Van Laethem JL, Schaeffer DF, Washington MK (2020).\nCarcinoma of the Exocrine Pancreas Histopathology Reporting Guide\n.\n1st edition\n. International Collaboration on Cancer Reporting; Sydney, Australia. ISBN: 978-1-922324-03-0.\nRead more on the Carcinoma of the exocrine pancreas dataset from the journal article written by the dataset authors:\nDataset for the reporting of carcinoma of the exocrine pancreas: recommendations from the International Collaboration on Cancer Reporting (ICCR)\n. Verbeke C, Webster F, Brosens L, Campbell F, Del Chiaro M, Esposito I, Feakins RM, Fukushima N, Gill AJ, Kakar S, Kench JG, Krasinskas AM, van Laethem JL, Schaeffer DF, Washington K. Histopathology. 2021 Dec;79(6):902-912. doi: 10.1111/his.14540. Epub 2021 Sep 22.\nExpert Committee\nThe 1st edition of the dataset for Carcinoma of the exocrine pancreas was developed by the following international team:\nChair – Caroline Verbeke, Norway\nSeries Champion and ICCR representative – Kay Washington, USA\nDomain experts:\nLodewijk Brosens, The Netherlands\nFiona Campbell, UK\nMarco Del Chiaro, USA\nIrene Esposito, Germany\nRoger Feakins, UK\nNoriyoshi Fukushima, Japan\nAnthony Gill, Australia\nSanjay Kakar, USA\nJames Kench, Australia\nAlyssa Krasinskas, USA\nJean-Luc van Laethem, Belgium\nDavid Schaeffer, Canada"
+    }
+  ],
+  "data_items": [],
+  "references": [],
+  "version_info": "",
+  "full_text": "Datasets\n>\nPublished Datasets\n>\nDigestive Tract\n>\nCarcinomas of the Exocrine Pancreas\nScope\nThe dataset has been developed for pancreatic resection specimens with carcinomas of the exocrine pancreas, i.e., ductal adenocarcinoma and acinar cell carcinoma.\nCarcinoma of the ampulla of Vater, common bile duct and duodenum, neuroendocrine neoplasia, lymphoma, sarcoma and secondary tumours are excluded from this dataset.\n\nPublication History\n1st edition\n– April 2020\nTo reference this dataset please use the following citation:\nVerbeke C,  Brosens L, Campbell F, Del Chiaro M, Esposito I, Feakins RM, Fukushima N, Gill A, Kakar S, Kench J, Krasinskas AM, Van Laethem JL, Schaeffer DF, Washington MK (2020).\nCarcinoma of the Exocrine Pancreas Histopathology Reporting Guide\n.\n1st edition\n. International Collaboration on Cancer Reporting; Sydney, Australia. ISBN: 978-1-922324-03-0.\nRead more on the Carcinoma of the exocrine pancreas dataset from the journal article written by the dataset authors:\nDataset for the reporting of carcinoma of the exocrine pancreas: recommendations from the International Collaboration on Cancer Reporting (ICCR)\n. Verbeke C, Webster F, Brosens L, Campbell F, Del Chiaro M, Esposito I, Feakins RM, Fukushima N, Gill AJ, Kakar S, Kench JG, Krasinskas AM, van Laethem JL, Schaeffer DF, Washington K. Histopathology. 2021 Dec;79(6):902-912. doi: 10.1111/his.14540. Epub 2021 Sep 22.\nExpert Committee\nThe 1st edition of the dataset for Carcinoma of the exocrine pancreas was developed by the following international team:\nChair – Caroline Verbeke, Norway\nSeries Champion and ICCR representative – Kay Washington, USA\nDomain experts:\nLodewijk Brosens, The Netherlands\nFiona Campbell, UK\nMarco Del Chiaro, USA\nIrene Esposito, Germany\nRoger Feakins, UK\nNoriyoshi Fukushima, Japan\nAnthony Gill, Australia\nSanjay Kakar, USA\nJames Kench, Australia\nAlyssa Krasinskas, USA\nJean-Luc van Laethem, Belgium\nDavid Schaeffer, Canada",
+  "category": "digestive-tract",
+  "slug": "pancreas"
+}

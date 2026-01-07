@@ -1,0 +1,614 @@
+{
+  "total_categories": 11,
+  "total_datasets": 65,
+  "categories": [
+    {
+      "slug": "breast",
+      "name_de": "Brust",
+      "name_en": "Breast",
+      "count": 4,
+      "datasets": [
+        {
+          "slug": "breast-neoadjuvant-therapy",
+          "title_de": "Invasives Brustkarzinom im Rahmen einer neoadjuvanten Therapie",
+          "title_en": "Invasive Carcinoma of the Breast in the Setting of Neoadjuvant Therapy",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/breast/breast-neoadjuvant-therapy/",
+          "file_de": "deutsch/breast/breast-neoadjuvant-therapy.json",
+          "file_en": "original/breast/breast-neoadjuvant-therapy.json"
+        },
+        {
+          "slug": "dcis-variants-of-lcis-and-low-grade-lesions",
+          "title_de": "Duktales Karzinom in situ, Varianten des lobulären Karzinoms in situ und niedriggradige Läsionen",
+          "title_en": "Ductal Carcinoma In Situ, Variants of Lobular Carcinoma In Situ and Low Grade Lesions",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/breast/dcis-variants-of-lcis-and-low-grade-lesions/",
+          "file_de": "deutsch/breast/dcis-variants-of-lcis-and-low-grade-lesions.json",
+          "file_en": "original/breast/dcis-variants-of-lcis-and-low-grade-lesions.json"
+        },
+        {
+          "slug": "invasive-carcinoma-of-the-breast",
+          "title_de": "Invasives Karzinom der Brust",
+          "title_en": "Invasive Carcinoma of the Breast",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/breast/invasive-carcinoma-of-the-breast/",
+          "file_de": "deutsch/breast/invasive-carcinoma-of-the-breast.json",
+          "file_en": "original/breast/invasive-carcinoma-of-the-breast.json"
+        },
+        {
+          "slug": "surgically-removed-lymph-nodes-for-breast-tumours",
+          "title_de": "Chirurgisch entfernte Lymphknoten bei Brusttumoren",
+          "title_en": "Surgically Removed Lymph Nodes for Breast Tumours",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/breast/surgically-removed-lymph-nodes-for-breast-tumours/",
+          "file_de": "deutsch/breast/surgically-removed-lymph-nodes-for-breast-tumours.json",
+          "file_en": "original/breast/surgically-removed-lymph-nodes-for-breast-tumours.json"
+        }
+      ]
+    },
+    {
+      "slug": "central-nervous-system",
+      "name_de": "Zentrales Nervensystem",
+      "name_en": "Central Nervous System",
+      "count": 1,
+      "datasets": [
+        {
+          "slug": "cns",
+          "title_de": "Tumoren des Zentralnervensystems (ZNS)",
+          "title_en": "Tumours of the Central Nervous System (CNS)",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/central-nervous-system/cns/",
+          "file_de": "deutsch/central-nervous-system/cns.json",
+          "file_en": "original/central-nervous-system/cns.json"
+        }
+      ]
+    },
+    {
+      "slug": "digestive-tract",
+      "name_de": "Verdauungstrakt",
+      "name_en": "Digestive Tract",
+      "count": 8,
+      "datasets": [
+        {
+          "slug": "carcinoma-of-the-oesophagus",
+          "title_de": "Karzinome der Speiseröhre",
+          "title_en": "Carcinomas of the Oesophagus",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/digestive-tract/carcinoma-of-the-oesophagus/",
+          "file_de": "deutsch/digestive-tract/carcinoma-of-the-oesophagus.json",
+          "file_en": "original/digestive-tract/carcinoma-of-the-oesophagus.json"
+        },
+        {
+          "slug": "carcinoma-of-the-stomach",
+          "title_de": "Karzinome des Magens",
+          "title_en": "Carcinomas of the Stomach",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/digestive-tract/carcinoma-of-the-stomach/",
+          "file_de": "deutsch/digestive-tract/carcinoma-of-the-stomach.json",
+          "file_en": "original/digestive-tract/carcinoma-of-the-stomach.json"
+        },
+        {
+          "slug": "colorectal-polypectomy",
+          "title_de": "Probe einer kolorektalen Exzisionsbiopsie (Polypektomie).",
+          "title_en": "Colorectal Excisional Biopsy (Polypectomy) Specimen",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/digestive-tract/colorectal-polypectomy/",
+          "file_de": "deutsch/digestive-tract/colorectal-polypectomy.json",
+          "file_en": "original/digestive-tract/colorectal-polypectomy.json"
+        },
+        {
+          "slug": "colorectal",
+          "title_de": "Darmkrebs",
+          "title_en": "Colorectal Cancers",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/digestive-tract/colorectal/",
+          "file_de": "deutsch/digestive-tract/colorectal.json",
+          "file_en": "original/digestive-tract/colorectal.json"
+        },
+        {
+          "slug": "endoscopic-resection-of-the-oesophagus",
+          "title_de": "Endoskopische Resektion der Speiseröhre und des ösophagogastrischen Übergangs",
+          "title_en": "Endoscopic Resection of the Oesophagus and Oesophagogastric Junction",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/digestive-tract/endoscopic-resection-of-the-oesophagus/",
+          "file_de": "deutsch/digestive-tract/endoscopic-resection-of-the-oesophagus.json",
+          "file_en": "original/digestive-tract/endoscopic-resection-of-the-oesophagus.json"
+        },
+        {
+          "slug": "endoscopic-resection-of-the-stomach",
+          "title_de": "Endoskopische Resektion des Magens",
+          "title_en": "Endoscopic Resection of the Stomach",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/digestive-tract/endoscopic-resection-of-the-stomach/",
+          "file_de": "deutsch/digestive-tract/endoscopic-resection-of-the-stomach.json",
+          "file_en": "original/digestive-tract/endoscopic-resection-of-the-stomach.json"
+        },
+        {
+          "slug": "liver",
+          "title_de": "Intrahepatisches Cholangiokarzinom, perihiläres Cholangiokarzinom und hepatozelluläres Karzinom",
+          "title_en": "Intrahepatic Cholangiocarcinoma, Perihilar Cholangiocarcinoma and Hepatocellular Carcinoma",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/digestive-tract/liver/",
+          "file_de": "deutsch/digestive-tract/liver.json",
+          "file_en": "original/digestive-tract/liver.json"
+        },
+        {
+          "slug": "pancreas",
+          "title_de": "Karzinome des exokrinen Pankreas",
+          "title_en": "Carcinomas of the Exocrine Pancreas",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/digestive-tract/pancreas/",
+          "file_de": "deutsch/digestive-tract/pancreas.json",
+          "file_en": "original/digestive-tract/pancreas.json"
+        }
+      ]
+    },
+    {
+      "slug": "endocrine",
+      "name_de": "Endokrine Organe",
+      "name_en": "Endocrine",
+      "count": 4,
+      "datasets": [
+        {
+          "slug": "adrenal-cortex",
+          "title_de": "Karzinome der Nebennierenrinde",
+          "title_en": "Carcinomas of the Adrenal Cortex",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/endocrine/adrenal-cortex/",
+          "file_de": "deutsch/endocrine/adrenal-cortex.json",
+          "file_en": "original/endocrine/adrenal-cortex.json"
+        },
+        {
+          "slug": "parathyroid",
+          "title_de": "Nebenschilddrüsenkarzinome und atypische Nebenschilddrüsenneoplasien",
+          "title_en": "Parathyroid Carcinomas and Atypical Parathyroid Neoplasms",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/endocrine/parathyroid/",
+          "file_de": "deutsch/endocrine/parathyroid.json",
+          "file_en": "original/endocrine/parathyroid.json"
+        },
+        {
+          "slug": "phaeochromocytoma",
+          "title_de": "Phäochromozytom und Paragangliom",
+          "title_en": "Phaeochromocytoma and Paraganglioma",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/endocrine/phaeochromocytoma/",
+          "file_de": "deutsch/endocrine/phaeochromocytoma.json",
+          "file_en": "original/endocrine/phaeochromocytoma.json"
+        },
+        {
+          "slug": "thyroid",
+          "title_de": "Karzinome der Schilddrüse",
+          "title_en": "Carcinomas of the Thyroid",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/endocrine/thyroid/",
+          "file_de": "deutsch/endocrine/thyroid.json",
+          "file_en": "original/endocrine/thyroid.json"
+        }
+      ]
+    },
+    {
+      "slug": "female-reproductive",
+      "name_de": "Weibliches Genitalsystem",
+      "name_en": "Female Reproductive",
+      "count": 7,
+      "datasets": [
+        {
+          "slug": "carcinoma-of-the-vagina",
+          "title_de": "Karzinome der Vagina",
+          "title_en": "Carcinomas of the Vagina",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/female-reproductive/carcinoma-of-the-vagina/",
+          "file_de": "deutsch/female-reproductive/carcinoma-of-the-vagina.json",
+          "file_en": "original/female-reproductive/carcinoma-of-the-vagina.json"
+        },
+        {
+          "slug": "carcinoma-of-the-vulva",
+          "title_de": "Karzinome der Vulva",
+          "title_en": "Carcinomas of the Vulva",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/female-reproductive/carcinoma-of-the-vulva/",
+          "file_de": "deutsch/female-reproductive/carcinoma-of-the-vulva.json",
+          "file_en": "original/female-reproductive/carcinoma-of-the-vulva.json"
+        },
+        {
+          "slug": "carcinomas-of-the-cervix",
+          "title_de": "Karzinome des Gebärmutterhalses",
+          "title_en": "Carcinomas of the Cervix",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/female-reproductive/carcinomas-of-the-cervix/",
+          "file_de": "deutsch/female-reproductive/carcinomas-of-the-cervix.json",
+          "file_en": "original/female-reproductive/carcinomas-of-the-cervix.json"
+        },
+        {
+          "slug": "endometrial",
+          "title_de": "Endometriumkrebs",
+          "title_en": "Endometrial Cancers",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/female-reproductive/endometrial/",
+          "file_de": "deutsch/female-reproductive/endometrial.json",
+          "file_en": "original/female-reproductive/endometrial.json"
+        },
+        {
+          "slug": "gestational-trophoblastic-neoplasia",
+          "title_de": "Gestationsbedingte trophoblastische Neoplasien",
+          "title_en": "Gestational Trophoblastic Neoplasias",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/female-reproductive/gestational-trophoblastic-neoplasia/",
+          "file_de": "deutsch/female-reproductive/gestational-trophoblastic-neoplasia.json",
+          "file_en": "original/female-reproductive/gestational-trophoblastic-neoplasia.json"
+        },
+        {
+          "slug": "ovary-ft-pp",
+          "title_de": "Eierstock-, Eileiter- und primäre Peritonealkarzinome",
+          "title_en": "Ovary, Fallopian Tube and Primary Peritoneal Carcinomas",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/female-reproductive/ovary-ft-pp/",
+          "file_de": "deutsch/female-reproductive/ovary-ft-pp.json",
+          "file_en": "original/female-reproductive/ovary-ft-pp.json"
+        },
+        {
+          "slug": "uterine-malignant",
+          "title_de": "Bösartige und potenziell bösartige mesenchymale Tumoren der Gebärmutter",
+          "title_en": "Uterine Malignant and Potentially Malignant Mesenchymal Tumours",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/female-reproductive/uterine-malignant/",
+          "file_de": "deutsch/female-reproductive/uterine-malignant.json",
+          "file_en": "original/female-reproductive/uterine-malignant.json"
+        }
+      ]
+    },
+    {
+      "slug": "head-and-neck",
+      "name_de": "Kopf-Hals",
+      "name_en": "Head and Neck",
+      "count": 9,
+      "datasets": [
+        {
+          "slug": "ear",
+          "title_de": "Ohr- und Schläfenbeintumoren",
+          "title_en": "Ear and Temporal Bone Tumours",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/head-neck/ear/",
+          "file_de": "deutsch/head-and-neck/ear.json",
+          "file_en": "original/head-and-neck/ear.json"
+        },
+        {
+          "slug": "larynx",
+          "title_de": "Karzinome des Hypopharynx, Larynx und Trachea",
+          "title_en": "Carcinomas of the Hypopharynx, Larynx and Trachea",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/head-neck/larynx/",
+          "file_de": "deutsch/head-and-neck/larynx.json",
+          "file_en": "original/head-and-neck/larynx.json"
+        },
+        {
+          "slug": "mucosal",
+          "title_de": "Schleimhautmelanome des Kopfes und Halses",
+          "title_en": "Mucosal Melanomas of the Head and Neck",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/head-neck/mucosal/",
+          "file_de": "deutsch/head-and-neck/mucosal.json",
+          "file_en": "original/head-and-neck/mucosal.json"
+        },
+        {
+          "slug": "nasal-cavity",
+          "title_de": "Karzinome der Nasenhöhle und der Nasennebenhöhlen",
+          "title_en": "Carcinomas of the Nasal Cavity and Paranasal Sinuses",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/head-neck/nasal-cavity/",
+          "file_de": "deutsch/head-and-neck/nasal-cavity.json",
+          "file_en": "original/head-and-neck/nasal-cavity.json"
+        },
+        {
+          "slug": "nasopharynx",
+          "title_de": "Karzinome des Oropharynx und Nasopharynx",
+          "title_en": "Carcinomas of the Oropharynx and Nasopharynx",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/head-neck/nasopharynx/",
+          "file_de": "deutsch/head-and-neck/nasopharynx.json",
+          "file_en": "original/head-and-neck/nasopharynx.json"
+        },
+        {
+          "slug": "nodal-excisions",
+          "title_de": "Knotenexzisionen und Halsdissektionsproben",
+          "title_en": "Nodal Excisions and Neck Dissection Specimens",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/head-neck/nodal-excisions/",
+          "file_de": "deutsch/head-and-neck/nodal-excisions.json",
+          "file_en": "original/head-and-neck/nodal-excisions.json"
+        },
+        {
+          "slug": "odontogenic",
+          "title_de": "Bösartige odontogene Tumoren",
+          "title_en": "Malignant Odontogenic Tumours",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/head-neck/odontogenic/",
+          "file_de": "deutsch/head-and-neck/odontogenic.json",
+          "file_en": "original/head-and-neck/odontogenic.json"
+        },
+        {
+          "slug": "oral-cavity",
+          "title_de": "Karzinome der Mundhöhle",
+          "title_en": "Carcinomas of the Oral Cavity",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/head-neck/oral-cavity/",
+          "file_de": "deutsch/head-and-neck/oral-cavity.json",
+          "file_en": "original/head-and-neck/oral-cavity.json"
+        },
+        {
+          "slug": "salivary-glands",
+          "title_de": "Karzinome der großen Speicheldrüsen",
+          "title_en": "Carcinomas of the Major Salivary Glands",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/head-neck/salivary-glands/",
+          "file_de": "deutsch/head-and-neck/salivary-glands.json",
+          "file_en": "original/head-and-neck/salivary-glands.json"
+        }
+      ]
+    },
+    {
+      "slug": "paediatrics",
+      "name_de": "Paediatrie",
+      "name_en": "Paediatrics",
+      "count": 4,
+      "datasets": [
+        {
+          "slug": "hepatoblastoma",
+          "title_de": "Hepatoblastom",
+          "title_en": "Hepatoblastoma",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/paediatrics/hepatoblastoma/",
+          "file_de": "deutsch/paediatrics/hepatoblastoma.json",
+          "file_en": "original/paediatrics/hepatoblastoma.json"
+        },
+        {
+          "slug": "neuroblastoma",
+          "title_de": "Neuroblastom",
+          "title_en": "Neuroblastoma",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/paediatrics/neuroblastoma/",
+          "file_de": "deutsch/paediatrics/neuroblastoma.json",
+          "file_en": "original/paediatrics/neuroblastoma.json"
+        },
+        {
+          "slug": "paediatric-renal-tumours",
+          "title_de": "Pädiatrische Nierentumoren",
+          "title_en": "Paediatric Renal Tumours",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/paediatrics/paediatric-renal-tumours/",
+          "file_de": "deutsch/paediatrics/paediatric-renal-tumours.json",
+          "file_en": "original/paediatrics/paediatric-renal-tumours.json"
+        },
+        {
+          "slug": "paediatric-rhabdomyosarcoma",
+          "title_de": "Pädiatrisches Rhabdomyosarkom",
+          "title_en": "Paediatric Rhabdomyosarcoma",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/paediatrics/paediatric-rhabdomyosarcoma/",
+          "file_de": "deutsch/paediatrics/paediatric-rhabdomyosarcoma.json",
+          "file_en": "original/paediatrics/paediatric-rhabdomyosarcoma.json"
+        }
+      ]
+    },
+    {
+      "slug": "skin",
+      "name_de": "Haut",
+      "name_en": "Skin",
+      "count": 3,
+      "datasets": [
+        {
+          "slug": "invasive-melanoma",
+          "title_de": "Melanom-Invasor",
+          "title_en": "Melanoma invasor",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/skin/invasive-melanoma/",
+          "file_de": "deutsch/skin/invasive-melanoma.json",
+          "file_en": "original/skin/invasive-melanoma.json"
+        },
+        {
+          "slug": "melanoma",
+          "title_de": "Invasives Melanom",
+          "title_en": "Invasive Melanoma",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/skin/melanoma/",
+          "file_de": "deutsch/skin/melanoma.json",
+          "file_en": "original/skin/melanoma.json"
+        },
+        {
+          "slug": "merkel-cell",
+          "title_de": "Merkelzellkarzinom",
+          "title_en": "Merkel Cell Carcinoma",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/skin/merkel-cell/",
+          "file_de": "deutsch/skin/merkel-cell.json",
+          "file_en": "original/skin/merkel-cell.json"
+        }
+      ]
+    },
+    {
+      "slug": "soft-tissue-and-bone",
+      "name_de": "Weichgewebe und Knochen",
+      "name_en": "Soft Tissue and Bone",
+      "count": 6,
+      "datasets": [
+        {
+          "slug": "gastrointestinal-stromal-tumour-biopsy-specimens",
+          "title_de": "Gastrointestinaler Stromatumor – Biopsieproben",
+          "title_en": "Gastrointestinal Stromal Tumour – Biopsy Specimens",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/soft-tissue-bone/gastrointestinal-stromal-tumour-biopsy-specimens/",
+          "file_de": "deutsch/soft-tissue-and-bone/gastrointestinal-stromal-tumour-biopsy-specimens.json",
+          "file_en": "original/soft-tissue-and-bone/gastrointestinal-stromal-tumour-biopsy-specimens.json"
+        },
+        {
+          "slug": "gastrointestinal-stromal-tumour-resection-specimen",
+          "title_de": "Gastrointestinaler Stromatumor – Resektionsproben",
+          "title_en": "Gastrointestinal Stromal Tumour – Resection Specimens",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/soft-tissue-bone/gastrointestinal-stromal-tumour-resection-specimen/",
+          "file_de": "deutsch/soft-tissue-and-bone/gastrointestinal-stromal-tumour-resection-specimen.json",
+          "file_en": "original/soft-tissue-and-bone/gastrointestinal-stromal-tumour-resection-specimen.json"
+        },
+        {
+          "slug": "primary-tumour-in-bone-biopsy-specimens",
+          "title_de": "Primärtumor im Knochen – Biopsieproben",
+          "title_en": "Primary Tumour in Bone – Biopsy Specimens",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/soft-tissue-bone/primary-tumour-in-bone-biopsy-specimens/",
+          "file_de": "deutsch/soft-tissue-and-bone/primary-tumour-in-bone-biopsy-specimens.json",
+          "file_en": "original/soft-tissue-and-bone/primary-tumour-in-bone-biopsy-specimens.json"
+        },
+        {
+          "slug": "primary-tumour-in-bone-resection-specimens",
+          "title_de": "Primärtumor im Knochen – Resektionsproben",
+          "title_en": "Primary Tumour in Bone – Resection Specimens",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/soft-tissue-bone/primary-tumour-in-bone-resection-specimens/",
+          "file_de": "deutsch/soft-tissue-and-bone/primary-tumour-in-bone-resection-specimens.json",
+          "file_en": "original/soft-tissue-and-bone/primary-tumour-in-bone-resection-specimens.json"
+        },
+        {
+          "slug": "soft-tissue-sarcoma-biopsy-specimens",
+          "title_de": "Weichteilsarkom – Biopsieproben",
+          "title_en": "Soft Tissue Sarcoma – Biopsy Specimens",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/soft-tissue-bone/soft-tissue-sarcoma-biopsy-specimens/",
+          "file_de": "deutsch/soft-tissue-and-bone/soft-tissue-sarcoma-biopsy-specimens.json",
+          "file_en": "original/soft-tissue-and-bone/soft-tissue-sarcoma-biopsy-specimens.json"
+        },
+        {
+          "slug": "soft-tissue-sarcoma-resection-specimens",
+          "title_de": "Weichteilsarkom – Resektionsproben",
+          "title_en": "Soft Tissue Sarcoma – Resection Specimens",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/soft-tissue-bone/soft-tissue-sarcoma-resection-specimens/",
+          "file_de": "deutsch/soft-tissue-and-bone/soft-tissue-sarcoma-resection-specimens.json",
+          "file_en": "original/soft-tissue-and-bone/soft-tissue-sarcoma-resection-specimens.json"
+        }
+      ]
+    },
+    {
+      "slug": "thorax",
+      "name_de": "Thorax",
+      "name_en": "Thorax",
+      "count": 6,
+      "datasets": [
+        {
+          "slug": "heart",
+          "title_de": "Neubildungen des Herzens, des Perikards und der großen Gefäße",
+          "title_en": "Neoplasms of the Heart, Pericardium and Great Vessels",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/thorax/heart/",
+          "file_de": "deutsch/thorax/heart.json",
+          "file_en": "original/thorax/heart.json"
+        },
+        {
+          "slug": "lung",
+          "title_de": "Lungenkrebs",
+          "title_en": "Lung Cancers",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/thorax/lung/",
+          "file_de": "deutsch/thorax/lung.json",
+          "file_en": "original/thorax/lung.json"
+        },
+        {
+          "slug": "mesothelioma",
+          "title_de": "Mesotheliom in Pleura, Perikard und Peritoneum",
+          "title_en": "Mesothelioma in the Pleura, Pericardium and Peritoneum",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/thorax/mesothelioma/",
+          "file_de": "deutsch/thorax/mesothelioma.json",
+          "file_en": "original/thorax/mesothelioma.json"
+        },
+        {
+          "slug": "thymic-epithelial-tumours",
+          "title_de": "Tumores epiteliales del timo",
+          "title_en": "Tumores epiteliales del timo",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/thorax/thymic-epithelial-tumours/",
+          "file_de": "deutsch/thorax/thymic-epithelial-tumours.json",
+          "file_en": "original/thorax/thymic-epithelial-tumours.json"
+        },
+        {
+          "slug": "thymic-epithelial",
+          "title_de": "Thymusepitheltumoren",
+          "title_en": "Thymic Epithelial Tumours",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/thorax/thymic-epithelial/",
+          "file_de": "deutsch/thorax/thymic-epithelial.json",
+          "file_en": "original/thorax/thymic-epithelial.json"
+        },
+        {
+          "slug": "tumours-of-the-lung-small-diagnostic-and-cytopathological-specimens",
+          "title_de": "Tumoren der Lunge – Kleine diagnostische und zytopathologische Präparate",
+          "title_en": "Tumours of the Lung – Small Diagnostic and Cytopathological Specimens",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/thorax/tumours-of-the-lung-small-diagnostic-and-cytopathological-specimens/",
+          "file_de": "deutsch/thorax/tumours-of-the-lung-small-diagnostic-and-cytopathological-specimens.json",
+          "file_en": "original/thorax/tumours-of-the-lung-small-diagnostic-and-cytopathological-specimens.json"
+        }
+      ]
+    },
+    {
+      "slug": "urinary-male-genital",
+      "name_de": "Urogenitalsystem",
+      "name_en": "Urinary and Male Genital",
+      "count": 13,
+      "datasets": [
+        {
+          "slug": "bladder",
+          "title_de": "Karzinome der Blase – Proben aus Zystektomie, Zystoprostatektomie und Divertikulektomie",
+          "title_en": "Carcinomas of the Bladder – Cystectomy, Cystoprostatectomy and Diverticulectomy Specimen",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/urinary-male-genital/bladder/",
+          "file_de": "deutsch/urinary-male-genital/bladder.json",
+          "file_en": "original/urinary-male-genital/bladder.json"
+        },
+        {
+          "slug": "neoplasia-of-the-testis-retroperitoneal-lymphadenectomy",
+          "title_de": "Neoplasie des Hodens – retroperitoneale Lymphadenektomie",
+          "title_en": "Neoplasia of the testis – retroperitoneal lymphadenectomy",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/urinary-male-genital/neoplasia-of-the-testis-retroperitoneal-lymphadenectomy/",
+          "file_de": "deutsch/urinary-male-genital/neoplasia-of-the-testis-retroperitoneal-lymphadenectomy.json",
+          "file_en": "original/urinary-male-genital/neoplasia-of-the-testis-retroperitoneal-lymphadenectomy.json"
+        },
+        {
+          "slug": "penis",
+          "title_de": "Karzinome des Penis und der distalen Harnröhre",
+          "title_en": "Carcinomas of the Penis and Distal Urethra",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/urinary-male-genital/penis/",
+          "file_de": "deutsch/urinary-male-genital/penis.json",
+          "file_en": "original/urinary-male-genital/penis.json"
+        },
+        {
+          "slug": "prostate-biopsy",
+          "title_de": "Prostata – Kernnadelbiopsie",
+          "title_en": "Prostate – Core Needle Biopsy",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/urinary-male-genital/prostate-biopsy/",
+          "file_de": "deutsch/urinary-male-genital/prostate-biopsy.json",
+          "file_en": "original/urinary-male-genital/prostate-biopsy.json"
+        },
+        {
+          "slug": "prostate-rad-pros",
+          "title_de": "Prostatakrebs – Probe einer radikalen Prostatektomie",
+          "title_en": "Prostate Cancers – Radical Prostatectomy Specimen",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/urinary-male-genital/prostate-rad-pros/",
+          "file_de": "deutsch/urinary-male-genital/prostate-rad-pros.json",
+          "file_en": "original/urinary-male-genital/prostate-rad-pros.json"
+        },
+        {
+          "slug": "prostate-tur",
+          "title_de": "Prostatakrebs – Transurethrale Resektion und Enukleation",
+          "title_en": "Prostate Cancers – Transurethral Resection and Enucleation",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/urinary-male-genital/prostate-tur/",
+          "file_de": "deutsch/urinary-male-genital/prostate-tur.json",
+          "file_en": "original/urinary-male-genital/prostate-tur.json"
+        },
+        {
+          "slug": "renal-biopsy",
+          "title_de": "Nierenbiopsie bei Tumoren",
+          "title_en": "Renal Biopsy for Tumours",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/urinary-male-genital/renal-biopsy/",
+          "file_de": "deutsch/urinary-male-genital/renal-biopsy.json",
+          "file_en": "original/urinary-male-genital/renal-biopsy.json"
+        },
+        {
+          "slug": "renal-pelvis-and-ureter",
+          "title_de": "Karzinome des Nierenbeckens und des Harnleiters – Nephroureterektomie- und Ureterektomiepräparat",
+          "title_en": "Carcinomas of the Renal Pelvis and Ureter – Nephroureterectomy and Ureterectomy Specimen",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/urinary-male-genital/renal-pelvis-and-ureter/",
+          "file_de": "deutsch/urinary-male-genital/renal-pelvis-and-ureter.json",
+          "file_en": "original/urinary-male-genital/renal-pelvis-and-ureter.json"
+        },
+        {
+          "slug": "renal-tubular",
+          "title_de": "Nierenepithel-Neubildungen",
+          "title_en": "Renal Epithelial Neoplasms",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/urinary-male-genital/renal-tubular/",
+          "file_de": "deutsch/urinary-male-genital/renal-tubular.json",
+          "file_en": "original/urinary-male-genital/renal-tubular.json"
+        },
+        {
+          "slug": "testis-orchidectomy",
+          "title_de": "Keimzelltumoren des Hodens – Orchidektomie",
+          "title_en": "Germ Cell Tumours of the Testis – Orchidectomy",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/urinary-male-genital/testis-orchidectomy/",
+          "file_de": "deutsch/urinary-male-genital/testis-orchidectomy.json",
+          "file_en": "original/urinary-male-genital/testis-orchidectomy.json"
+        },
+        {
+          "slug": "testis-retroperitoneal",
+          "title_de": "Neoplasie des Hodens – Retroperitoneale Lymphadenektomie",
+          "title_en": "Neoplasia of the Testis – Retroperitoneal Lymphadenectomy",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/urinary-male-genital/testis-retroperitoneal/",
+          "file_de": "deutsch/urinary-male-genital/testis-retroperitoneal.json",
+          "file_en": "original/urinary-male-genital/testis-retroperitoneal.json"
+        },
+        {
+          "slug": "urethra-urethrectomy",
+          "title_de": "Karzinome der Harnröhre – Urethrektomiepräparat",
+          "title_en": "Carcinomas of the Urethra – Urethrectomy Specimen",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/urinary-male-genital/urethra-urethrectomy/",
+          "file_de": "deutsch/urinary-male-genital/urethra-urethrectomy.json",
+          "file_en": "original/urinary-male-genital/urethra-urethrectomy.json"
+        },
+        {
+          "slug": "ut-biopsy-and-tr",
+          "title_de": "Harnwegskarzinome – Probe aus Biopsie und transurethraler Resektion",
+          "title_en": "Urinary Tract Carcinomas – Biopsy and Transurethral Resection Specimen",
+          "url": "https://www.iccr-cancer.org/datasets/published-datasets/urinary-male-genital/ut-biopsy-and-tr/",
+          "file_de": "deutsch/urinary-male-genital/ut-biopsy-and-tr.json",
+          "file_en": "original/urinary-male-genital/ut-biopsy-and-tr.json"
+        }
+      ]
+    }
+  ]
+}

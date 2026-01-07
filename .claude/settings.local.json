@@ -1,0 +1,37 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python scripts/scrape_and_translate.py:*)",
+      "Bash(pip install:*)",
+      "Bash(python scripts/scrape_iccr_v2.py:*)",
+      "Bash(dir:*)",
+      "Bash(python pathoki_iccr.py:*)",
+      "Bash(python scripts/scrape_iccr_v3.py:*)",
+      "Bash(done)",
+      "Bash(more:*)",
+      "Bash(python scripts/scrape_missing.py:*)",
+      "WebFetch(domain:www.iccr-cancer.org)",
+      "Bash(find datasets/deutsch -name \"*.json\" -exec sh -c 'echo \"\"=== {} ===\"\" && python -c \"\"import json; d=json.load\\(open\\(\\\\\"\"{}\\\\\"\"\\)\\); print\\(\\\\\"\"Title:\\\\\"\", d.get\\(\\\\\"\"title\\\\\"\",\\\\\"\"\\\\\"\"\\)[:60]\\); print\\(\\\\\"\"Text length:\\\\\"\", len\\(d.get\\(\\\\\"\"full_text\\\\\"\",\\\\\"\"\\\\\"\"\\)\\)\\)\"\"' ;)",
+      "Bash(playwright install:*)",
+      "Bash(python:*)",
+      "Bash(taskkill:*)",
+      "Bash(pkill:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "memory-mcp",
+    "filesystem-mcp",
+    "skills-manager",
+    "pathoki-leitlinien",
+    "healthcare-mcp",
+    "medical-mcp",
+    "biomcp",
+    "pubmed",
+    "gemini-cli",
+    "github-mcp",
+    "figma"
+  ]
+}

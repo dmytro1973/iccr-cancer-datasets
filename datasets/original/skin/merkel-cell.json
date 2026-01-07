@@ -1,0 +1,23 @@
+{
+  "url": "https://www.iccr-cancer.org/datasets/published-datasets/skin/merkel-cell/",
+  "title": "Merkel Cell Carcinoma",
+  "introduction": "",
+  "scope": "",
+  "authors": [],
+  "sections": [
+    {
+      "title": "Scope",
+      "content": "Datasets\n>\nPublished Datasets\n>\nSkin\n>\nMerkel Cell Carcinoma\nScope\nThe dataset has been developed for the reporting of the pathologic findings of primary cutaneous Merkel cell carcinoma in excision (resection) specimens containing tumour."
+    },
+    {
+      "title": "Publication History",
+      "content": "Publication History\n1st edition\n– December 2019.\n2nd EDITION UNDER REVIEW POST CONSULTATION\nTo reference this dataset please use the following citation:\nBusam K, Bichakjian C, Coit D, Kutzner H, Requena L, Scolyer R, Stefanato C, Walsh N, Wood B (2019).\nMerkel Cell Carcinoma Histopathology Reporting Guide. 1st  edition\n. International Collaboration on Cancer Reporting; Sydney, Australia. ISBN: 978-1-925687-33-0.\nRead more on the Merkel cell carcinoma dataset (1st edition) from the journal article written by the dataset authors:\nDataset for the Reporting of Merkel Cell Carcinoma: Recommendations From the International Collaboration on Cancer Reporting (ICCR)\n. Busam KJ, Judge MJ, Bichakjian CK, Coit D, Kutzner H, Requena L, Scolyer RA, Stefanato CM, Wood BA, Walsh NM. Am J Surg Pathol. 2022 Nov 1;46(11):1583-1591. doi: 10.1097/PAS.0000000000001959. Epub 2022 Aug 25.\nExpert Committee\nThe 1st edition of the dataset for Merkel cell carcinoma was developed by the following international team:\nChair – Klaus Busam, USA\nICCR representative – Paul Barrett, UK\nDomain Experts:\nChris Bichakjian, USA\nDaniel Coit, USA\nHeinz Kutzner, Germany\nLuis Requena, Spain\nRichard Scolyer, Australia\nCatherine Stefanato, UK\nNoreen Walsh, Canada\nBenjamin Wood, Australia"
+    }
+  ],
+  "data_items": [],
+  "references": [],
+  "version_info": "",
+  "full_text": "Datasets\n>\nPublished Datasets\n>\nSkin\n>\nMerkel Cell Carcinoma\nScope\nThe dataset has been developed for the reporting of the pathologic findings of primary cutaneous Merkel cell carcinoma in excision (resection) specimens containing tumour.\n\nPublication History\n1st edition\n– December 2019.\n2nd EDITION UNDER REVIEW POST CONSULTATION\nTo reference this dataset please use the following citation:\nBusam K, Bichakjian C, Coit D, Kutzner H, Requena L, Scolyer R, Stefanato C, Walsh N, Wood B (2019).\nMerkel Cell Carcinoma Histopathology Reporting Guide. 1st  edition\n. International Collaboration on Cancer Reporting; Sydney, Australia. ISBN: 978-1-925687-33-0.\nRead more on the Merkel cell carcinoma dataset (1st edition) from the journal article written by the dataset authors:\nDataset for the Reporting of Merkel Cell Carcinoma: Recommendations From the International Collaboration on Cancer Reporting (ICCR)\n. Busam KJ, Judge MJ, Bichakjian CK, Coit D, Kutzner H, Requena L, Scolyer RA, Stefanato CM, Wood BA, Walsh NM. Am J Surg Pathol. 2022 Nov 1;46(11):1583-1591. doi: 10.1097/PAS.0000000000001959. Epub 2022 Aug 25.\nExpert Committee\nThe 1st edition of the dataset for Merkel cell carcinoma was developed by the following international team:\nChair – Klaus Busam, USA\nICCR representative – Paul Barrett, UK\nDomain Experts:\nChris Bichakjian, USA\nDaniel Coit, USA\nHeinz Kutzner, Germany\nLuis Requena, Spain\nRichard Scolyer, Australia\nCatherine Stefanato, UK\nNoreen Walsh, Canada\nBenjamin Wood, Australia",
+  "category": "skin",
+  "slug": "merkel-cell"
+}

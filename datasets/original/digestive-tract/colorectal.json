@@ -1,0 +1,23 @@
+{
+  "url": "https://www.iccr-cancer.org/datasets/published-datasets/digestive-tract/colorectal/",
+  "title": "Colorectal Cancers",
+  "introduction": "",
+  "scope": "",
+  "authors": [],
+  "sections": [
+    {
+      "title": "Scope",
+      "content": "Datasets\n>\nPublished Datasets\n>\nDigestive Tract\n>\nColorectal Cancers\nScope\nThe dataset has been developed for the reporting of surgical resection specimens from patients with primary carcinoma of the colon and rectum, including neuroendocrine carcinomas (NECs) and mixed neuroendocrine-non-neuroendocrine neoplasms (MiNENs). It is not applicable to carcinomas of the small intestine, appendix or anus, nor to neuroendocrine tumours (NETs) or non-epithelial malignancies.\nPrimary colorectal carcinomas treated by local excision are dealt with in a separate dataset."
+    },
+    {
+      "title": "Publication History",
+      "content": "Publication History\nThis dataset was developed with the kind support of Bowel Cancer UK.\n1st edition\n– April 2020\nTo reference this dataset please use the following citation:\nLoughrey MB, Arends M, Brown I, Burgart LJ, Cunningham C, Flejou JF, Kakar S, Kirsch R, Kojima M, Lugli A, Rosty C, Sheahan K, West NP, Wilson R, Nagtegaal ID (2020).\nColorectal Cancer Histopathology Reporting Guide. 1st edition.\nInternational Collaboration on Cancer Reporting; Sydney, Australia. ISBN: 978-1-922324-01-6.\nRead more on the Colorectal cancer dataset from the journal article written by the dataset authors:\nDataset for Pathology Reporting of Colorectal Cancer: Recommendations From the International Collaboration on Cancer Reporting (ICCR)\n. Loughrey MB, Webster F, Arends MJ, Brown I, Burgart LJ, Cunningham C, Flejou JF, Kakar S, Kirsch R, Kojima M, Lugli A, Rosty C, Sheahan K, West NP, Wilson RH, Nagtegaal ID. Ann Surg. 2022 Mar 1;275(3):e549-e561. doi: 10.1097/SLA.0000000000005051.\nExpert Committee\nThe 1st edition of the dataset for Colorectal cancer was developed by the following international team:\nChair – Maurice Loughrey, UK\nSeries Champion and ICCR representative – Iris Nagtegaal, The Netherlands\nDomain experts:\nMark Arends, UK\nIan Brown, Australia\nLawrence Burgart, USA\nChris Cunningham, UK\nJean-Francois Flejou, France\nSanjay Kakar, USA\nRichard Kirsch, Canada\nMotohiro Kojima, Japan\nAlessandro Lugli, Switzerland\nChristophe Rosty, Australia\nKieran Sheahan, Ireland\nNicholas West, UK\nRichard Wilson, UK"
+    }
+  ],
+  "data_items": [],
+  "references": [],
+  "version_info": "",
+  "full_text": "Datasets\n>\nPublished Datasets\n>\nDigestive Tract\n>\nColorectal Cancers\nScope\nThe dataset has been developed for the reporting of surgical resection specimens from patients with primary carcinoma of the colon and rectum, including neuroendocrine carcinomas (NECs) and mixed neuroendocrine-non-neuroendocrine neoplasms (MiNENs). It is not applicable to carcinomas of the small intestine, appendix or anus, nor to neuroendocrine tumours (NETs) or non-epithelial malignancies.\nPrimary colorectal carcinomas treated by local excision are dealt with in a separate dataset.\n\nPublication History\nThis dataset was developed with the kind support of Bowel Cancer UK.\n1st edition\n– April 2020\nTo reference this dataset please use the following citation:\nLoughrey MB, Arends M, Brown I, Burgart LJ, Cunningham C, Flejou JF, Kakar S, Kirsch R, Kojima M, Lugli A, Rosty C, Sheahan K, West NP, Wilson R, Nagtegaal ID (2020).\nColorectal Cancer Histopathology Reporting Guide. 1st edition.\nInternational Collaboration on Cancer Reporting; Sydney, Australia. ISBN: 978-1-922324-01-6.\nRead more on the Colorectal cancer dataset from the journal article written by the dataset authors:\nDataset for Pathology Reporting of Colorectal Cancer: Recommendations From the International Collaboration on Cancer Reporting (ICCR)\n. Loughrey MB, Webster F, Arends MJ, Brown I, Burgart LJ, Cunningham C, Flejou JF, Kakar S, Kirsch R, Kojima M, Lugli A, Rosty C, Sheahan K, West NP, Wilson RH, Nagtegaal ID. Ann Surg. 2022 Mar 1;275(3):e549-e561. doi: 10.1097/SLA.0000000000005051.\nExpert Committee\nThe 1st edition of the dataset for Colorectal cancer was developed by the following international team:\nChair – Maurice Loughrey, UK\nSeries Champion and ICCR representative – Iris Nagtegaal, The Netherlands\nDomain experts:\nMark Arends, UK\nIan Brown, Australia\nLawrence Burgart, USA\nChris Cunningham, UK\nJean-Francois Flejou, France\nSanjay Kakar, USA\nRichard Kirsch, Canada\nMotohiro Kojima, Japan\nAlessandro Lugli, Switzerland\nChristophe Rosty, Australia\nKieran Sheahan, Ireland\nNicholas West, UK\nRichard Wilson, UK",
+  "category": "digestive-tract",
+  "slug": "colorectal"
+}

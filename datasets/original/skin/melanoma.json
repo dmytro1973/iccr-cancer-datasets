@@ -1,0 +1,23 @@
+{
+  "url": "https://www.iccr-cancer.org/datasets/published-datasets/skin/melanoma/",
+  "title": "Invasive Melanoma",
+  "introduction": "",
+  "scope": "",
+  "authors": [],
+  "sections": [
+    {
+      "title": "Scope",
+      "content": "Datasets\n>\nPublished Datasets\n>\nSkin\n>\nInvasive Melanoma\nScope\nThis dataset has been developed for reporting of primary cutaneous invasive melanoma.\nThe second edition of this dataset includes changes to align the dataset with the TNM Pathological staging 8th edition and the 2018 World Health Organization (WHO) Classification of Tumours, Pathology and Genetics of Skin Tumours, 4th edition, in addition to other revisions as listed in the scope section of the dataset notes."
+    },
+    {
+      "title": "Publication History",
+      "content": "Publication History\n2nd edition\n– October 2019.\n3rd EDITION UNDER REVIEW POST CONSULTATION\nTo reference this dataset please use the following citation\n: Scolyer RA, Balamurgan T, Busam K, Elder D, Evans A, Gershenwald J, Frishberg DP, McMenamin M, Prieto VG, Shiau C, Swetter S, van den Oord J (2019).\nInvasive Melanoma Histopathology Reporting Guide. 2nd edition.\nInternational Collaboration on Cancer Reporting; Sydney, Australia. ISBN: 978-1-925687-32-3.\n1st edition\n– November 2013\nDeveloped as part of the initial pilot project in 2011-2012.\nRead more on the Melanoma dataset (1st edition) from the journal article written by the dataset authors:\nData set for pathology reporting of cutaneous invasive melanoma: recommendations from the international collaboration on cancer reporting (ICCR)\n. Scolyer RA, Judge MJ, Evans A, Frishberg DP, Prieto VG, Thompson JF, Trotter MJ, Walsh MY, Walsh NMG, Ellis DW. Am J Surg Pathol. 2013 Dec;37(12):1797-814. doi: 10.1097/PAS.0b013e31829d7f35.\nExpert Committee\nThe 2nd edition of the dataset for Invasive melanoma was developed by the following international team:\nChair – Richard Scolyer, Australia\nICCR representative – Paul Barrett, UK\nDomain experts:\nThiagarajah Balamurgan, UK\nKlaus Busam, USA\nDavid Elder, USA\nAlan Evans, UK\nJeffrey Gershenwald, USA\nDavid Frishberg, USA\nMáirín McMenamin, Ireland\nVictor Prieto, USA\nCarolyn Shiau, Canada\nSusan Swetter, USA\nJoost van den Oord, Belgium\nAuthors of previous editions of this dataset are available\nhere"
+    }
+  ],
+  "data_items": [],
+  "references": [],
+  "version_info": "",
+  "full_text": "Datasets\n>\nPublished Datasets\n>\nSkin\n>\nInvasive Melanoma\nScope\nThis dataset has been developed for reporting of primary cutaneous invasive melanoma.\nThe second edition of this dataset includes changes to align the dataset with the TNM Pathological staging 8th edition and the 2018 World Health Organization (WHO) Classification of Tumours, Pathology and Genetics of Skin Tumours, 4th edition, in addition to other revisions as listed in the scope section of the dataset notes.\n\nPublication History\n2nd edition\n– October 2019.\n3rd EDITION UNDER REVIEW POST CONSULTATION\nTo reference this dataset please use the following citation\n: Scolyer RA, Balamurgan T, Busam K, Elder D, Evans A, Gershenwald J, Frishberg DP, McMenamin M, Prieto VG, Shiau C, Swetter S, van den Oord J (2019).\nInvasive Melanoma Histopathology Reporting Guide. 2nd edition.\nInternational Collaboration on Cancer Reporting; Sydney, Australia. ISBN: 978-1-925687-32-3.\n1st edition\n– November 2013\nDeveloped as part of the initial pilot project in 2011-2012.\nRead more on the Melanoma dataset (1st edition) from the journal article written by the dataset authors:\nData set for pathology reporting of cutaneous invasive melanoma: recommendations from the international collaboration on cancer reporting (ICCR)\n. Scolyer RA, Judge MJ, Evans A, Frishberg DP, Prieto VG, Thompson JF, Trotter MJ, Walsh MY, Walsh NMG, Ellis DW. Am J Surg Pathol. 2013 Dec;37(12):1797-814. doi: 10.1097/PAS.0b013e31829d7f35.\nExpert Committee\nThe 2nd edition of the dataset for Invasive melanoma was developed by the following international team:\nChair – Richard Scolyer, Australia\nICCR representative – Paul Barrett, UK\nDomain experts:\nThiagarajah Balamurgan, UK\nKlaus Busam, USA\nDavid Elder, USA\nAlan Evans, UK\nJeffrey Gershenwald, USA\nDavid Frishberg, USA\nMáirín McMenamin, Ireland\nVictor Prieto, USA\nCarolyn Shiau, Canada\nSusan Swetter, USA\nJoost van den Oord, Belgium\nAuthors of previous editions of this dataset are available\nhere",
+  "category": "skin",
+  "slug": "melanoma"
+}

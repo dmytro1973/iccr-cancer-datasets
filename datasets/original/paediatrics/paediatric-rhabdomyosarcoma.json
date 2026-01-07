@@ -1,0 +1,23 @@
+{
+  "url": "https://www.iccr-cancer.org/datasets/published-datasets/paediatrics/paediatric-rhabdomyosarcoma/",
+  "title": "Paediatric Rhabdomyosarcoma",
+  "introduction": "",
+  "scope": "",
+  "authors": [],
+  "sections": [
+    {
+      "title": "Scope",
+      "content": "Datasets\n>\nPublished Datasets\n>\nPaediatrics\n>\nPaediatric Rhabdomyosarcoma\nScope\nThe dataset has been developed for the pathological reporting of biopsy and resection specimens of paediatric rhabdomyosarcoma. The dataset includes both pre- and post-treatment specimens.\nFor adult rhabdomyosarcoma refer to the ICCR soft tissue sarcoma datasets."
+    },
+    {
+      "title": "Publication History",
+      "content": "Publication History\nThis dataset was developed with the kind support of the International Paediatric Pathology Association (IPPA), Paediatric Pathology Society (PPS) and Society for Pediatric Pathology (SPP).\n1st edition\n– November 2023\nTo reference this dataset please use the following citation:\nAlaggio R, Kelsey A, Bailey KM, Bisogno G, Davis J, Dry SM, Konovalov D, Lazar A, O’Sullivan M, Rudzinski E, Venkatramani R, Vokuhl C, Zambrano E, Cohen M, Reyes-Múgica M (2023).\nPaediatric Rhabdomyosarcoma Histopathology Reporting Guide. 1st edition\n. International Collaboration on Cancer Reporting; Sydney, Australia. ISBN: 978-1-922324-41-2.\nRead more on the Paediatric rhabdomyosarcoma dataset from the journal article written by the dataset authors:\nData set for reporting of paediatric rhabdomyosarcoma: recommendations from the International Collaboration on Cancer Reporting (ICCR)\n. Kelsey A, Alaggio R, Webster F, Bailey KM, Bisogno G, Davis JL, Dry SM, Konovalov D, Lazar A, O’Sullivan MJ, Rudzinski ER, Venkatramani R, Vokuhl C, Zambrano E, Cohen M, Reyes-Múgica M. Histopathology. 2025 Feb 25. doi: 10.1111/his.15431. Epub 2025 Feb 25.\nExpert Committee\nThe 1st edition of the dataset for Paediatric rhabdomyosarcoma was developed by the following international team:\nCo-chair – Rita Alaggio, Italy\nCo-chair – Anna Kelsey, UK\nSeries Champion – Miguel Reyes-Múgica, USA\nICCR representative – Marta Cohen, UK\nDomain experts:\nKelly Bailey, USA\nGianni Bisogno, Italy\nJessica Davis, USA\nSarah Dry, USA\nDmitry Konovalov, Russia\nAlex Lazar, USA\nMaureen O’Sullivan, Ireland\nErin Rudzinski, USA\nRaj Venkatramani, USA\nChristian Vokuhl, Germany\nEduardo Zambrano, USA"
+    }
+  ],
+  "data_items": [],
+  "references": [],
+  "version_info": "",
+  "full_text": "Datasets\n>\nPublished Datasets\n>\nPaediatrics\n>\nPaediatric Rhabdomyosarcoma\nScope\nThe dataset has been developed for the pathological reporting of biopsy and resection specimens of paediatric rhabdomyosarcoma. The dataset includes both pre- and post-treatment specimens.\nFor adult rhabdomyosarcoma refer to the ICCR soft tissue sarcoma datasets.\n\nPublication History\nThis dataset was developed with the kind support of the International Paediatric Pathology Association (IPPA), Paediatric Pathology Society (PPS) and Society for Pediatric Pathology (SPP).\n1st edition\n– November 2023\nTo reference this dataset please use the following citation:\nAlaggio R, Kelsey A, Bailey KM, Bisogno G, Davis J, Dry SM, Konovalov D, Lazar A, O’Sullivan M, Rudzinski E, Venkatramani R, Vokuhl C, Zambrano E, Cohen M, Reyes-Múgica M (2023).\nPaediatric Rhabdomyosarcoma Histopathology Reporting Guide. 1st edition\n. International Collaboration on Cancer Reporting; Sydney, Australia. ISBN: 978-1-922324-41-2.\nRead more on the Paediatric rhabdomyosarcoma dataset from the journal article written by the dataset authors:\nData set for reporting of paediatric rhabdomyosarcoma: recommendations from the International Collaboration on Cancer Reporting (ICCR)\n. Kelsey A, Alaggio R, Webster F, Bailey KM, Bisogno G, Davis JL, Dry SM, Konovalov D, Lazar A, O’Sullivan MJ, Rudzinski ER, Venkatramani R, Vokuhl C, Zambrano E, Cohen M, Reyes-Múgica M. Histopathology. 2025 Feb 25. doi: 10.1111/his.15431. Epub 2025 Feb 25.\nExpert Committee\nThe 1st edition of the dataset for Paediatric rhabdomyosarcoma was developed by the following international team:\nCo-chair – Rita Alaggio, Italy\nCo-chair – Anna Kelsey, UK\nSeries Champion – Miguel Reyes-Múgica, USA\nICCR representative – Marta Cohen, UK\nDomain experts:\nKelly Bailey, USA\nGianni Bisogno, Italy\nJessica Davis, USA\nSarah Dry, USA\nDmitry Konovalov, Russia\nAlex Lazar, USA\nMaureen O’Sullivan, Ireland\nErin Rudzinski, USA\nRaj Venkatramani, USA\nChristian Vokuhl, Germany\nEduardo Zambrano, USA",
+  "category": "paediatrics",
+  "slug": "paediatric-rhabdomyosarcoma"
+}

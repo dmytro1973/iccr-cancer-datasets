@@ -1,0 +1,167 @@
+
+[96m+==============================================================+[0m
+[96m|[0m[1m     ICCR Cancer Datasets Scraper & Translator              [0m[96m|[0m
+[96m|[0m[90m     Pathologie-Datensaetze EN -> DE                        [0m[96m|[0m
+[96m+==============================================================+[0m
+
+  [90mDatasets gefunden:[0m [1m62[0m
+
+
+  [90m----------------------------------------------------------[0m
+  [93m[D][0m [1mBreast[0m (4 Datasets)
+  [90m----------------------------------------------------------[0m
+
+  [>] [94mScraping:[0m Ductal Carcinoma In Situ, Variants of Lobular...
+  [S] [96mSpeichere...[0m                                [OK] [92mFertig[0m                                                      
+  [90mGesamt:[0m [..............................]   1.6% [00:06]
+
+  [>] [94mScraping:[0m Invasive Carcinoma of the Breast
+  [S] [96mSpeichere...[0m                                [OK] [92mFertig[0m                                                      
+  [90mGesamt:[0m [..............................]   3.2% [00:10]
+
+  [>] [94mScraping:[0m Invasive Carcinoma of the Breast in the Setti...
+  [S] [96mSpeichere...[0m                                [OK] [92mFertig[0m                                                      
+  [90mGesamt:[0m [#.............................]   4.8% [00:13]
+
+  [>] [94mScraping:[0m Surgically Removed Lymph Nodes for Breast Tum...
+  [S] [96mSpeichere...[0m                                [OK] [92mFertig[0m                                                      
+  [90mGesamt:[0m [#.............................]   6.5% [00:16]
+
+  [90m----------------------------------------------------------[0m
+  [93m[D][0m [1mCentral Nervous System[0m (1 Datasets)
+  [90m----------------------------------------------------------[0m
+
+  [>] [94mScraping:[0m Tumours of the Central Nervous System
+  [S] [96mSpeichere...[0m                                [OK] [92mFertig[0m                                                      
+  [90mGesamt:[0m [##............................]   8.1% [00:20]
+
+  [90m----------------------------------------------------------[0m
+  [93m[D][0m [1mDigestive Tract[0m (8 Datasets)
+  [90m----------------------------------------------------------[0m
+
+  [>] [94mScraping:[0m Carcinomas of the Exocrine Pancreas
+  [S] [96mSpeichere...[0m                                [OK] [92mFertig[0m                                                      
+  [90mGesamt:[0m [##............................]   9.7% [00:25]
+
+  [>] [  [T] [95mÜbersetze:[0m [####################] 100.0% 43/43 Absätze    [T] [95mÜbersetze:[0m [##########..........]  50.0% 1/2 Sektionen    [T] [95mÜbersetze:[0m [####################] 100.0% 2/2 Sektionen    [S] [96mSpeichere...[0m                                [OK] [92mFertig[0m                                                      
+  [90mGesamt:[0m [#.............................]   6.5% [05:11]
+
+  [90m----------------------------------------------------------[0m
+  [93m[D][0m [1mCentral Nervous System[0m (1 Datasets)
+  [90m----------------------------------------------------------[0m
+
+  [>] [94mScraping:[0m Tumours of the Central Nervous System
+  [S] [96mSpeichere...[0m                                [T] [95mÜbersetze...[0m  [T] [95mÜbersetze:[0m [########............]  44.2% 50/113 Absätze    [T] [95mÜbersetze:[0m [#################...]  88.5% 100/113 Absätze    [T] [95mÜbersetze:[0m [####################] 100.0% 113/113 Absätze    [T] [95mÜbersetze:[0m [##########..........]  50.0% 1/2 Sektionen    [T] [95mÜbersetze:[0m [####################] 100.0% 2/2 Sektionen    [S] [96mSpeichere...[0m                                [OK] [92mFertig[0m                                                      
+  [90mGesamt:[0m [##............................]   8.1% [08:29]
+
+  [90m----------------------------------------------------------[0m
+  [93m[D][0m [1mDigestive Tract[0m (8 Datasets)
+  [90m----------------------------------------------------------[0m
+
+  [>] [94mScraping:[0m Carcinomas of the Exocrine Pancreas
+  [S] [96mSpeichere...[0m                                [T] [95mÜbersetze...[0m  [T] [95mÜbersetze:[0m [####################] 100.0% 40/40 Absätze    [T] [95mÜbersetze:[0m [##########..........]  50.0% 1/2 Sektionen    [T] [95mÜbersetze:[0m [####################] 100.0% 2/2 Sektionen    [S] [96mSpeichere...[0m                                [OK] [92mFertig[0m                                                      
+  [90mGesamt:[0m [##............................]   9.7% [09:21]
+
+  [>] [94mScraping:[0m Carcinomas of the Oesophagus
+  [S] [96mSpeichere...[0m                                [T] [95mÜbersetze...[0m  [T] [95mÜbersetze:[0m [#################...]  87.7% 50/57 Absätze    [T] [95mÜbersetze:[0m [####################] 100.0% 57/57 Absätze    [T] [95mÜbersetze:[0m [##########..........]  50.0% 1/2 Sektionen    [T] [95mÜbersetze:[0m [####################] 100.0% 2/2 Sektionen    [S] [96mSpeichere...[0m                                [OK] [92mFertig[0m                                                      
+  [90mGesamt:[0m [###...........................]  11.3% [10:49]
+
+  [>] [94mScraping:[0m Endoscopic Resection of the Oesophagus and Oe...
+  [S] [96mSpeichere...[0m                                [T] [95mÜbersetze...[0m  [T] [95mÜbersetze:[0m [#################...]  89.3% 50/56 Absätze    [T] [95mÜbersetze:[0m [####################] 100.0% 56/56 Absätze    [T] [95mÜbersetze:[0m [##########..........]  50.0% 1/2 Sektionen    [T] [95mÜbersetze:[0m [####################] 100.0% 2/2 Sektionen    [S] [96mSpeichere...[0m                                [OK] [92mFertig[0m                                                      
+  [90mGesamt:[0m [###...........................]  12.9% [12:24]
+
+  [>] [94mScraping:[0m Carcinomas of the Stomach
+  [S] [96mSpeichere...[0m                                [T] [95mÜbersetze...[0m  [T] [95mÜbersetze:[0m [##################..]  90.9% 50/55 Absätze    [T] [95mÜbersetze:[0m [####################] 100.0% 55/55 Absätze    [T] [95mÜbersetze:[0m [##########..........]  50.0% 1/2 Sektionen    [T] [95mÜbersetze:[0m [####################] 100.0% 2/2 Sektionen    [S] [96mSpeichere...[0m                                [OK] [92mFertig[0m                                                      
+  [90mGesamt:[0m [####..........................]  14.5% [13:42]
+
+  [>] [94mScraping:[0m Endoscopic Resection of the Stomach
+  [S] [96mSpeichere...[0m                                [T] [95mÜbersetze...[0m  [T] [95mÜbersetze:[0m [###################.]  98.0% 50/51 Absätze    [T] [95mÜbersetze:[0m [####################] 100.0% 51/51 Absätze    [T] [95mÜbersetze:[0m [##########..........]  50.0% 1/2 Sektionen    [T] [95mÜbersetze:[0m [####################] 100.0% 2/2 Sektionen    [S] [96mSpeichere...[0m                                [OK] [92mFertig[0m                                                      
+  [90mGesamt:[0m [####..........................]  16.1% [15:10]
+
+  [>] [94mScraping:[0m Colorectal Cancers
+  [S] [96mSpeichere...[0m                                [T] [95mÜbersetze...[0m  [T] [95mÜbersetze:[0m [####################] 100.0% 40/40 Absätze    [T] [95mÜbersetze:[0m [##########..........]  50.0% 1/2 Sektionen    [T] [95mÜbersetze:[0m [####################] 100.0% 2/2 Sektionen    [S] [96mSpeichere...[0m                                [OK] [92mFertig[0m                                                      
+  [90mGesamt:[0m [#####.........................]  17.7% [16:27]
+
+  [>] [94mScraping:[0m Colorectal Excisional Biopsy (Polypectomy) Sp...
+  [S] [96mSpeichere...[0m                                [T] [95mÜbersetze...[0m  [T] [95mÜbersetze:[0m [####################] 100.0% 38/38 Absätze    [T] [95mÜbersetze:[0m [##########..........]  50.0% 1/2 Sektionen    [T] [95mÜbersetze:[0m [####################] 100.0% 2/2 Sektionen    [S] [96mSpeichere...[0m                                [OK] [92mFertig[0m                                                      
+  [90mGesamt:[0m [#####.........................]  19.4% [17:54]
+
+  [>] [94mScraping:[0m Intrahepatic Cholangiocarcinoma, Perihilar Ch...
+  [S] [96mSpeichere...[0m                                [T] [95mÜbersetze...[0m  [T] [95mÜbersetze:[0m [####################] 100.0% 46/46 Absätze    [T] [95mÜbersetze:[0m [##########..........]  50.0% 1/2 Sektionen    [T] [95mÜbersetze:[0m [####################] 100.0% 2/2 Sektionen    [S] [96mSpeichere...[0m                                [OK] [92mFertig[0m                                                      
+  [90mGesamt:[0m [######........................]  21.0% [19:07]
+
+  [90m----------------------------------------------------------[0m
+  [93m[D][0m [1mEndocrine[0m (4 Datasets)
+  [90m----------------------------------------------------------[0m
+
+  [>] [94mScraping:[0m Carcinomas of the Adrenal Cortex
+  [S] [96mSpeichere...[0m                                [T] [95mÜbersetze...[0m  [T] [95mÜbersetze:[0m [################....]  82.0% 50/61 Absätze    [T] [95mÜbersetze:[0m [####################] 100.0% 61/61 Absätze    [T] [95mÜbersetze:[0m [##########..........]  50.0% 1/2 Sektionen    [T] [95mÜbersetze:[0m [####################] 100.0% 2/2 Sektionen    [S] [96mSpeichere...[0m                                [OK] [92mFertig[0m                                                      
+  [90mGesamt:[0m [######........................]  22.6% [20:43]
+
+  [>] [94mScraping:[0m Carcinomas of the Thyroid
+  [S] [96mSpeichere...[0m                                [T] [95mÜbersetze...[0m  [T] [95mÜbersetze:[0m [############........]  63.3% 50/79 Absätze    [T] [95mÜbersetze:[0m [####################] 100.0% 79/79 Absätze    [T] [95mÜbersetze:[0m [##########..........]  50.0% 1/2 Sektionen    [T] [95mÜbersetze:[0m [####################] 100.0% 2/2 Sektionen    [S] [96mSpeichere...[0m                                [OK] [92mFertig[0m                                                      
+  [90mGesamt:[0m [#######.......................]  24.2% [22:42]
+
+  [>] [94mScraping:[0m Parathyroid Carcinomas and Atypical Parathyro...
+  [S] [96mSpeichere...[0m                                [T] [95mÜbersetze...[0m  [T] [95mÜbersetze:[0m [###############.....]  78.1% 50/64 Absätze    [T] [95mÜbersetze:[0m [####################] 100.0% 64/64 Absätze    [T] [95mÜbersetze:[0m [##########..........]  50.0% 1/2 Sektionen    [T] [95mÜbersetze:[0m [####################] 100.0% 2/2 Sektionen    [S] [96mSpeichere...[0m                                [OK] [92mFertig[0m                                                      
+  [90mGesamt:[0m [#######.......................]  25.8% [24:32]
+
+  [>] [94mScraping:[0m Phaeochromocytoma and Paraganglioma
+  [S] [96mSpeichere...[0m                                [T] [95mÜbersetze...[0m  [T] [95mÜbersetze:[0m [################....]  80.6% 50/62 Absätze    [T] [95mÜbersetze:[0m [####################] 100.0% 62/62 Absätze    [T] [95mÜbersetze:[0m [##########..........]  50.0% 1/2 Sektionen    [T] [95mÜbersetze:[0m [####################] 100.0% 2/2 Sektionen    [S] [96mSpeichere...[0m                                [OK] [92mFertig[0m                                                      
+  [90mGesamt:[0m [########......................]  27.4% [26:06]
+
+  [90m----------------------------------------------------------[0m
+  [93m[D][0m [1mFemale Reproductive[0m (7 Datasets)
+  [90m----------------------------------------------------------[0m
+
+  [>] [94mScraping:[0m Carcinomas of the Cervix
+  [S] [96mSpeichere...[0m                                [T] [95mÜbersetze...[0m  [T] [95mÜbersetze:[0m [############........]  64.9% 50/77 Absätze    [T] [95mÜbersetze:[0m [####################] 100.0% 77/77 Absätze    [T] [95mÜbersetze:[0m [##########..........]  50.0% 1/2 Sektionen    [T] [95mÜbersetze:[0m [####################] 100.0% 2/2 Sektionen    [S] [96mSpeichere...[0m                                [OK] [92mFertig[0m                                                      
+  [90mGesamt:[0m [########......................]  29.0% [28:28]
+
+  [>] [94mScraping:[0m Carcinomas of the Vagina
+  [S] [96mSpeichere...[0m                                [T] [95mÜbersetze...[0m  [T] [95mÜbersetze:[0m [####################] 100.0% 38/38 Absätze    [T] [95mÜbersetze:[0m [##########..........]  50.0% 1/2 Sektionen    [T] [95mÜbersetze:[0m [####################] 100.0% 2/2 Sektionen    [S] [96mSpeichere...[0m                                [OK] [92mFertig[0m                                                      
+  [90mGesamt:[0m [#########.....................]  30.6% [29:29]
+
+  [>] [94mScraping:[0m Carcinomas of the Vulva
+  [S] [96mSpeichere...[0m                                [T] [95mÜbersetze...[0m  [T] [95mÜbersetze:[0m [##################..]  90.9% 50/55 Absätze    [T] [95mÜbersetze:[0m [####################] 100.0% 55/55 Absätze    [T] [95mÜbersetze:[0m [##########..........]  50.0% 1/2 Sektionen    [T] [95mÜbersetze:[0m [####################] 100.0% 2/2 Sektionen    [S] [96mSpeichere...[0m                                [OK] [92mFertig[0m                                                      
+  [90mGesamt:[0m [#########.....................]  32.3% [30:50]
+
+  [>] [94mScraping:[0m Endometrial Cancers
+  [S] [96mSpeichere...[0m                                [T] [95mÜbersetze...[0m  [T] [95mÜbersetze:[0m [#############.......]  68.5% 50/73 Absätze    [T] [95mÜbersetze:[0m [####################] 100.0% 73/73 Absätze    [T] [95mÜbersetze:[0m [##########..........]  50.0% 1/2 Sektionen    [T] [95mÜbersetze:[0m [####################] 100.0% 2/2 Sektionen    [S] [96mSpeichere...[0m                                [OK] [92mFertig[0m                                                      
+  [90mGesamt:[0m [##########....................]  33.9% [44:25]
+
+  [>] [94mScraping:[0m Gestational Trophoblastic Neoplasias
+  [S] [96mSpeichere...[0m                                [T] [95mÜbersetze...[0m  [T] [95mÜbersetze:[0m [####################] 100.0% 35/35 Absätze    [T] [95mÜbersetze:[0m [##########..........]  50.0% 1/2 Sektionen    [T] [95mÜbersetze:[0m [####################] 100.0% 2/2 Sektionen    [S] [96mSpeichere...[0m                                [OK] [92mFertig[0m                                                      
+  [90mGesamt:[0m [##########....................]  35.5% [35:35]
+
+  [>] [94mScraping:[0m Ovary, Fallopian Tube and Primary Peritoneal ...
+  [S] [96mSpeichere...[0m                                [T] [95mÜbersetze...[0m  [T] [95mÜbersetze:[0m [####################] 100.0% 45/45 Absätze    [T] [95mÜbersetze:[0m [##########..........]  50.0% 1/2 Sektionen    [T] [95mÜbersetze:[0m [####################] 100.0% 2/2 Sektionen    [S] [96mSpeichere...[0m                                [OK] [92mFertig[0m                                                      
+  [90mGesamt:[0m [###########...................]  37.1% [47:50]
+
+  [>] [94mScraping:[0m Uterine Malignant and Potentially Malignant M...
+  [S] [96mSpeichere...[0m                                [T] [95mÜbersetze...[0m  [T] [95mÜbersetze:[0m [####################] 100.0% 38/38 Absätze    [T] [95mÜbersetze:[0m [##########..........]  50.0% 1/2 Sektionen    [T] [95mÜbersetze:[0m [####################] 100.0% 2/2 Sektionen    [S] [96mSpeichere...[0m                                [OK] [92mFertig[0m                                                      
+  [90mGesamt:[0m [###########...................]  38.7% [38:15]
+
+  [90m----------------------------------------------------------[0m
+  [93m[D][0m [1mHead Neck[0m (9 Datasets)
+  [90m----------------------------------------------------------[0m
+
+  [>] [94mScraping:[0m Carcinomas of the Hypopharynx, Larynx and Tra...
+  [S] [96mSpeichere...[0m                                [T] [95mÜbersetze...[0m  [T] [95mÜbersetze:[0m [################....]  84.7% 50/59 Absätze    [T] [95mÜbersetze:[0m [####################] 100.0% 59/59 Absätze    [T] [95mÜbersetze:[0m [##########..........]  50.0% 1/2 Sektionen    [T] [95mÜbersetze:[0m [####################] 100.0% 2/2 Sektionen    [S] [96mSpeichere...[0m                                [OK] [92mFertig[0m                                                      
+  [90mGesamt:[0m [############..................]  40.3% [39:33]
+
+  [>] [94mScraping:[0m Carcinomas of the Major Salivary Glands
+  [S] [96mSpeichere...[0m                                [T] [95mÜbersetze...[0m  [T] [95mÜbersetze:[0m [################....]  80.6% 50/62 Absätze    [T] [95mÜbersetze:[0m [####################] 100.0% 62/62 Absätze    [T] [95mÜbersetze:[0m [##########..........]  50.0% 1/2 Sektionen    [T] [95mÜbersetze:[0m [####################] 100.0% 2/2 Sektionen    [S] [96mSpeichere...[0m                                [OK] [92mFertig[0m                                                      
+  [90mGesamt:[0m [############..................]  41.9% [40:54]
+
+  [>] [94mScraping:[0m Carcinomas of the Nasal Cavity and Paranasal ...
+  [S] [96mSpeichere...[0m                                [T] [95mÜbersetze...[0m  [T] [95mÜbersetze:[0m [##############......]  73.5% 50/68 Absätze    [T] [95mÜbersetze:[0m [####################] 100.0% 68/68 Absätze    [T] [95mÜbersetze:[0m [##########..........]  50.0% 1/2 Sektionen    [T] [95mÜbersetze:[0m [####################] 100.0% 2/2 Sektionen    [S] [96mSpeichere...[0m                                [OK] [92mFertig[0m                                                      
+  [90mGesamt:[0m [#############.................]  43.5% [53:53]
+
+  [>] [94mScraping:[0m Carcinomas of the Oropharynx and Nasopharynx
+  [S] [96mSpeichere...[0m                                [T] [95mÜbersetze...[0m  [T] [95mÜbersetze:[0m [################....]  82.0% 50/61 Absätze    [T] [95mÜbersetze:[0m [####################] 100.0% 61/61 Absätze    [T] [95mÜbersetze:[0m [##########..........]  50.0% 1/2 Sektionen    [T] [95mÜbersetze:[0m [####################] 100.0% 2/2 Sektionen    [S] [96mSpeichere...[0m                                [OK] [92mFertig[0m                                                      
+  [90mGesamt:[0m [#############.................]  45.2% [55:34]
+
+  [>] [94mScraping:[0m Carcinomas of the Oral Cavity
+  [S] [96mSpeichere...[0m                                [T] [95mÜbersetze...[0m  [T] [95mÜbersetze:[0m [###############.....]  79.4% 50/63 Absätze    [T] [95mÜbersetze:[0m [####################] 100.0% 63/63 Absätze    [T] [95mÜbersetze:[0m [##########..........]  50.0% 1/2 Sektionen    [T] [95mÜbersetze:[0m [####################] 100.0% 2/2 Sektionen    [S] [96mSpeichere...[0m                                [OK] [92mFertig[0m                                                      
+  [90mGesamt:[0m [##############................]
