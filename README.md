@@ -1,20 +1,41 @@
-# ICCR Cancer Datasets - PathoKI Modul
+# ICCR Cancer Datasets
 
 **International Collaboration on Cancer Reporting (ICCR)**
 
-Dieses Modul enthält strukturierte Datasets für die pathologische Befundung von Krebserkrankungen, übersetzt ins Deutsche.
+Strukturierte Histopathologie-Leitfäden für die Krebsbefundung – Original (EN) + Deutsche Übersetzung.
 
-## Inhalt
+## Übersicht
 
-- **59 Datasets** in 11 Kategorien
-- Original (Englisch) + Deutsche Übersetzung
-- JSON + Markdown Format
+| | |
+|---|---|
+| **Kategorien** | 11 |
+| **Datasets** | 65 |
+| **Sprachen** | Deutsch + Englisch |
+| **Format** | JSON + Markdown |
+
+## Kategorien
+
+| Kategorie | DE | Datasets |
+|-----------|-----|----------|
+| Breast | Brust | 4 |
+| Central Nervous System | Zentrales Nervensystem | 1 |
+| Digestive Tract | Verdauungstrakt | 8 |
+| Endocrine | Endokrine Organe | 4 |
+| Female Reproductive | Weibliches Genitalsystem | 7 |
+| Head and Neck | Kopf-Hals | 9 |
+| Paediatrics | Pädiatrie | 4 |
+| Skin | Haut | 3 |
+| Soft Tissue and Bone | Weichgewebe und Knochen | 6 |
+| Thorax | Thorax | 6 |
+| Urinary and Male Genital | Urogenitalsystem | 13 |
 
 ## Verzeichnisstruktur
 
 ```
 datasets/
-├── original/           # Englische Originale
+├── INDEX.md              # Übersicht (Markdown)
+├── index.json            # Maschinenlesbarer Index
+├── deutsch/              # Deutsche Übersetzungen
 │   ├── breast/
 │   ├── central-nervous-system/
 │   ├── digestive-tract/
@@ -26,81 +47,87 @@ datasets/
 │   ├── soft-tissue-and-bone/
 │   ├── thorax/
 │   └── urinary-male-genital/
-├── deutsch/            # Deutsche Übersetzungen
-│   └── [gleiche Struktur]
-├── index.json          # Vollständiger Index
-└── INDEX.md            # Markdown Index
+└── original/             # Englische Originale
+    └── [gleiche Struktur]
 ```
 
-## Kategorien
+## Nutzung
 
-| Kategorie | Datasets | Beschreibung |
-|-----------|----------|--------------|
-| Breast | 4 | Mammakarzinome |
-| Central Nervous System | 1 | ZNS-Tumoren |
-| Digestive Tract | 8 | Gastrointestinale Tumoren |
-| Endocrine | 4 | Endokrine Tumoren |
-| Female Reproductive | 7 | Gynäkologische Tumoren |
-| Head and Neck | 6 | Kopf-Hals-Tumoren |
-| Paediatrics | 4 | Pädiatrische Tumoren |
-| Skin | 2 | Hauttumoren |
-| Soft Tissue and Bone | 6 | Weichteil- und Knochentumoren |
-| Thorax | 5 | Thorakale Tumoren |
-| Urinary Male Genital | 12 | Urologische Tumoren |
-
-## Nutzung in PathoKI
-
-### Python
+### Index laden
 
 ```python
 import json
-from pathlib import Path
 
-# Index laden
 with open("datasets/index.json", "r", encoding="utf-8") as f:
     index = json.load(f)
 
-# Alle Datasets auflisten
-for ds in index["datasets"]:
-    print(f"{ds['title_de']} ({ds['category']})")
+print(f"Kategorien: {index['total_categories']}")
+print(f"Datasets: {index['total_datasets']}")
 
-# Einzelnes Dataset laden
-with open("datasets/deutsch/breast/invasive-carcinoma-of-the-breast.json", "r", encoding="utf-8") as f:
-    breast_data = json.load(f)
-    print(breast_data["full_text"][:500])
+for cat in index["categories"]:
+    print(f"  {cat['name_de']}: {cat['count']} Datasets")
 ```
 
-### Als Wissensquelle
+### Dataset laden
 
-Die Datasets können als Kontext für LLM-basierte Pathologie-Assistenz verwendet werden:
+```python
+import json
+
+with open("datasets/deutsch/breast/invasive-carcinoma-of-the-breast.json", "r", encoding="utf-8") as f:
+    data = json.load(f)
+
+print(data["title"])
+print(data["full_text"])
+```
+
+### Alle Datasets einer Kategorie
 
 ```python
 from pathlib import Path
 import json
 
-def load_pathology_context(category: str = None):
-    """Lade ICCR Pathologie-Kontext"""
-    datasets_dir = Path("datasets/deutsch")
-    context = []
+def load_category(category: str):
+    """Lade alle Datasets einer Kategorie."""
+    datasets = []
+    for f in Path(f"datasets/deutsch/{category}").glob("*.json"):
+        with open(f, "r", encoding="utf-8") as fp:
+            datasets.append(json.load(fp))
+    return datasets
 
-    for json_file in datasets_dir.rglob("*.json"):
-        if category and category not in str(json_file):
-            continue
-        with open(json_file, "r", encoding="utf-8") as f:
-            data = json.load(f)
-            context.append({
-                "title": data.get("title", ""),
-                "content": data.get("full_text", ""),
-                "category": json_file.parent.name
-            })
+# Beispiel: Alle Brust-Datasets
+breast = load_category("breast")
+for ds in breast:
+    print(f"- {ds['title']}")
+```
 
-    return context
+## JSON Schema
+
+```json
+{
+  "url": "https://www.iccr-cancer.org/datasets/...",
+  "title": "Dataset Titel",
+  "introduction": "Einführungstext",
+  "scope": "Geltungsbereich",
+  "authors": ["Autor 1", "Autor 2"],
+  "sections": [
+    {
+      "title": "Abschnittstitel",
+      "content": "Inhalt..."
+    }
+  ],
+  "data_items": [],
+  "references": [],
+  "version_info": "Versionsinfo",
+  "full_text": "Vollständiger Text",
+  "category": "kategorie-slug",
+  "slug": "dataset-slug"
+}
 ```
 
 ## Quelle
 
-- **ICCR Website:** https://www.iccr-cancer.org/datasets/published-datasets/
-- **Gescrapt am:** 2026-01-07
+- **ICCR:** https://www.iccr-cancer.org/datasets/published-datasets/
+- **Stand:** Januar 2025
 - **Übersetzung:** deep-translator (Google Translate)
 
 ## Lizenz
@@ -110,4 +137,4 @@ Siehe: https://www.iccr-cancer.org/
 
 ---
 
-*Erstellt für das PathoKI Projekt*
+*Teil des [PathoKI](https://github.com/dmytro1973/PathoKi) Projekts*
