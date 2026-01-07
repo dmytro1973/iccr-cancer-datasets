@@ -17,7 +17,8 @@
       "Bash(taskkill:*)",
       "Bash(pkill:*)",
       "Bash(git init:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nfeat: ICCR Cancer Datasets - 11 Kategorien, 65 Datasets \\(DE/EN\\)\n\n- Scraped alle ICCR Datasets mit Playwright\n- Übersetzt EN -> DE mit deep-translator\n- Bereinigt: Duplikate, Autoren-Seiten, head-neck Ordner\n- Index generiert \\(index.json + INDEX.md\\)\n\n🤖 Generated with [Claude Code]\\(https://claude.com/claude-code\\)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")"
     ]
   },
   "enableAllProjectMcpServers": true,
